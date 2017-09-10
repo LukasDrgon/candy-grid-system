@@ -12,13 +12,13 @@
 To use the Grid, you need to include the file with Grid number **12**, **16** or **24** that you want to use in the section `<head>` of the page.
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/candy-grid-system/2.0.0/12-candygs.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/andreamariotti83/candy-grid-system@2.0.0/dist/12-candygs.min.css">
 ```
 ```html
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/candy-grid-system/2.0.0/16-candygs.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/andreamariotti83/candy-grid-system@2.0.0/dist/16-candygs.min.css">
 ```
 ```html
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/candy-grid-system/2.0.0/24-candygs.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/andreamariotti83/candy-grid-system@2.0.0/dist/24-candygs.min.css">
 ```
 
 ***candygs*** : This class is required to use to set the values of the grids.
